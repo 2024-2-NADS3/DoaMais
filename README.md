@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://live.staticflickr.com/65535/53646015108_21545d1549_w.jpg" alt="Logo do projeto"/></a>
+<img src="https://live.staticflickr.com/65535/53962361283_7b2eaf4462_w.jpg" alt="Logo do projeto"/></a>
 </p>
 
 
@@ -60,7 +60,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
 ## 📋 Licença/License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-1-NADS2/Projeto1">DoaMais Mobile</a> by <span property="cc:attributionName">Daniel Baptista, Fabio Spindola, Fabricio Nascimento, Leonardo de Souza</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-2-NADS3/DoaMais">DoaMais Mobile</a> by <span property="cc:attributionName">Daniel Baptista, Fabio Spindola, Fabricio Nascimento, Leonardo de Souza</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 🎓 Referências
 
