@@ -1,0 +1,25 @@
+Nome do aplicativo : DoaMais
+
+Descrição breve (80 caracteres no máximo) : DoaMais: transforme cupons fiscais em doações para ONGs carentes!
+
+Descrição Completa (4000 caracteres no máximo):DoaMais: Transformando Cupons Fiscais em Solidariedade
+
+O DoaMais é um aplicativo inovador que permite que qualquer pessoa faça a diferença na vida de quem precisa, utilizando um recurso que está ao alcance de todos: os cupons fiscais. Com o intuito de apoiar entidades carentes, o DoaMais oferece uma forma simples e prática de direcionar o valor de impostos que, de outra forma, iriam para o governo, diretamente para ONGs que realizam um trabalho essencial em diversas comunidades.
+
+Como Funciona?
+O funcionamento do DoaMais é simples e intuitivo. Após baixar o aplicativo, o usuário deve criar uma conta e registrar-se. Em seguida, ao realizar uma compra e receber um cupom fiscal, basta tirar uma foto do cupom e enviá-la pelo aplicativo. O sistema reconhece automaticamente o valor e o direciona para a entidade escolhida, sem que o usuário precise gastar nada além do que já gastou em sua compra.
+
+Benefícios para as ONGs
+As ONGs cadastradas no DoaMais recebem uma porcentagem do valor do imposto que seria destinado ao governo. Isso significa que elas podem contar com uma fonte de recursos extra, permitindo ampliar seus projetos e atender a um número maior de beneficiários. Além disso, o aplicativo proporciona visibilidade para essas organizações, conectando-as com novos doadores e potenciais parceiros.
+
+Impacto Social
+O DoaMais não é apenas uma ferramenta de doação, mas um verdadeiro agente de transformação social. Através do ato simples de enviar um cupom fiscal, os usuários se tornam parte de um movimento que promove a solidariedade e o apoio a quem realmente precisa. Cada cupom enviado representa uma contribuição para a melhoria da vida de pessoas em situação de vulnerabilidade, ajudando a financiar projetos de educação, saúde, alimentação e habitação, entre outros.
+
+Facilidade de Uso
+O aplicativo foi desenvolvido pensando na usabilidade. Com uma interface amigável, ele orienta o usuário em cada etapa do processo, desde o cadastro até o envio do cupom. Além disso, o DoaMais oferece um sistema de notificação que mantém os doadores informados sobre o impacto de suas doações, como atualizações sobre projetos financiados e histórias de beneficiários.
+
+Transparência e Segurança
+A transparência é um pilar fundamental do DoaMais. O aplicativo fornece informações detalhadas sobre como os recursos são utilizados pelas ONGs, permitindo que os doadores acompanhem o destino de suas contribuições. Além disso, o sistema é seguro, garantindo a proteção dos dados pessoais e financeiros dos usuários.
+
+Junte-se a Nós
+Ao escolher o DoaMais, você se torna parte de uma rede de solidariedade que busca um mundo melhor. Não importa o valor do cupom, cada contribuição conta e faz a diferença. A junção de pequenos gestos pode gerar um grande impacto. Convide amigos e familiares a se juntarem a essa causa, amplificando ainda mais a solidariedade.
