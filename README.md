@@ -49,7 +49,8 @@
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 <p>-<a href="https://developer.android.com/?_gl=1*18xz00w*_up*MQ..&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQsiBFDbwz3dYzFSvHBnHKv5WrKNFB86o0eP3prt8IUV5D8Vp0qyvDEaAhhUEALw_wcB&gclsrc=aw.ds">Android Studio</a></p>
-<p>-<a href="https://nodejs.org/en](https://www.mysql.com/">MySQL Workbench</a></p>
+<p>-<a href="https://www.mysql.com/">MySQL Workbench</a></p>
+<p>-<a href="https://azure.microsoft.com/en-us">Microsoft Azure</a></p>
 
 ## 🗃 Histórico de lançamentos
 
