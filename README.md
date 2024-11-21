@@ -32,7 +32,7 @@
   &emsp;|guia_de_estilo.docx<br>
   &emsp;|-->PlayStore<br>
   &emsp;|-->Programação Mobile<br>
-  &emsp;|-->Sistemas Operacionais e Arquiteturas Cloud Native<br>    
+  &emsp;|-->Sistemas Operacionais e Arquiteturas Cloud Native<br> 
   &emsp;|-->Testes e Qualidade de Software (DevOps)<br>
   &emsp;|-->User Experience Digital<br>
 |-->src<br>
