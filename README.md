@@ -27,12 +27,14 @@
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|<br>
+|DoaMais.apk<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
   &emsp;|guia_de_estilo.docx<br>
-  &emsp;|template__projetos_de_extensão.docx<br>
-  &emsp;|template__projetos_de_extensão.pdf<br>
+    &emsp;&emsp;|-->PlayStore<br>
+    &emsp;&emsp;|-->Programação Mobile<br>
+    &emsp;&emsp;|-->Sistemas Operacionais e Arquiteturas Cloud Native<br>    
+    &emsp;&emsp;|-->Testes e Qualidade de Software (DevOps)<br>
+    &emsp;&emsp;|-->User Experience Digital<br>    
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
