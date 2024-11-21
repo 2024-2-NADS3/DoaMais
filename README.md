@@ -30,12 +30,11 @@
 |DoaMais.apk<br>
 |-->documentos<br>
   &emsp;|guia_de_estilo.docx<br>
-    &emsp;&emsp;|-->PlayStore<br>
-    &emsp;&emsp;|-->Programação Mobile<br>
-    &emsp;&emsp;|-->Sistemas Operacionais e Arquiteturas Cloud Native<br>    
-    &emsp;&emsp;|-->Testes e Qualidade de Software (DevOps)<br>
-    &emsp;&emsp;|-->User Experience Digital<br>    
-|-->imagens<br>
+  &emsp;|-->PlayStore<br>
+  &emsp;|-->Programação Mobile<br>
+  &emsp;|-->Sistemas Operacionais e Arquiteturas Cloud Native<br>    
+  &emsp;|-->Testes e Qualidade de Software (DevOps)<br>
+  &emsp;|-->User Experience Digital<br>
 |-->src<br>
   &emsp;|-->Backend<br>
     &emsp;&emsp;|-->Banco_de_dados<br>
